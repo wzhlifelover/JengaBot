@@ -1,1 +1,2 @@
-JengaBot
+# JengaBot  
+A Educational Robotic Arm System
